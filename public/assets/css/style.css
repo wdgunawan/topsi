@@ -1015,3 +1015,42 @@
 	  h2.image{display: block!important;background-color: white!important;font-weight: bold!important;font-size: 20pt!important;color: black;}
 	  header a .image.button.small{display: none!important;}
   }
+
+
+  /*********************************************************************************/
+/* Background Colour                                                                     */
+/*********************************************************************************/
+
+	.paleturquoise
+	{
+		background: paleturquoise;
+	}
+	.blanchedalmond
+	{
+		background: blanchedalmond;
+	}
+	.azure
+	{
+		background: azure;
+	}
+	.navajowhite
+	{
+		background: navajowhite;
+	}
+	.darkorange
+	{
+		background: darkorange;
+	}
+	.mistyrose
+	{
+		background: mistyrose;
+	}
+	input[type="submit"]{
+		background: blanchedalmond;
+	}
+	input[type="button"]{
+		background: mistyrose;
+	}
+	input[type="reset"]{
+		background: mistyrose;
+	}

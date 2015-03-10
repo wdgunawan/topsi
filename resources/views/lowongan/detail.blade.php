@@ -13,30 +13,30 @@
               <div class="row 50%">           
                   <div class="8u 12u(mobile)">
                       <p class="subtitle"><i class="icon-g-folder-open"></i>Tahap Administrasi</p>
-                      <a class="pull-right button small 4(narrower)" id="sign" href="hasil"><i class="icon-g-group"></i> Hasil</a>
-                      <a class="pull-right button small 4(narrower)" id="sign" href="input_pelamar"><i class="icon-g-user-add"></i> Input Pelamar</a>
-                      <a class="pull-right button small 4(narrower)" id="bobot-adm" href="#bobot-adm-form"><i class="icon-g-cogwheels"></i> Bobot</a>
+                      <a class="pull-right button small 4(narrower) azure" id="sign" href="hasil"><i class="icon-g-group"></i> Hasil</a>
+                      <a class="pull-right button small 4(narrower) mistyrose" id="sign" href="input_pelamar"><i class="icon-g-user-add"></i> Input Pelamar</a>
+                      <a class="pull-right button small 4(narrower) blanchedalmond" id="bobot-adm" href="#bobot-adm-form"><i class="icon-g-cogwheels"></i> Bobot</a>
                   </div>
 
                   <div class="8u 12u(mobile)">
                       <p class="subtitle"><i class="icon-g-old-man"></i>Tahap Psikotes</p>
-                      <a class="pull-right button small 4(narrower)" id="sign" href="hasil"><i class="icon-g-group"></i> Hasil</a>
-                      <a class="pull-right button small 4(narrower)" style="width:138px;" id="sign" href="input_nilai_psikotes"><i class="icon-g-pen"></i> Input Nilai</a>
-                      <a class="pull-right button small 4(narrower)" id="bobot-psi" href="#bobot-psi-form"><i class="icon-g-cogwheels"></i> Bobot</a>
+                      <a class="pull-right button small 4(narrower) azure" id="sign" href="hasil"><i class="icon-g-group"></i> Hasil</a>
+                      <a class="pull-right button small 4(narrower) mistyrose" style="width:138px;" id="sign" href="input_nilai_psikotes"><i class="icon-g-pen"></i> Input Nilai</a>
+                      <a class="pull-right button small 4(narrower) blanchedalmond" id="bobot-psi" href="#bobot-psi-form"><i class="icon-g-cogwheels"></i> Bobot</a>
                   </div>
 
                   <div class="8u 12u(mobile)">
                       <p class="subtitle"><i class="icon-g-pencil"></i>Tahap Tertulis</p>
-                      <a class="pull-right button small 4(narrower)" id="sign" href="hasil"><i class="icon-g-group"></i> Hasil</a>
-                      <a class="pull-right button small 4(narrower)" style="width:138px;" id="sign" href="input_nilai_psikotes"><i class="icon-g-pen"></i> Input Nilai</a>
-                      <a class="pull-right button small 4(narrower)" id="bobot-tls" href="#bobot-tls-form"><i class="icon-g-cogwheels"></i> Bobot</a>
+                      <a class="pull-right button small 4(narrower) azure" id="sign" href="hasil"><i class="icon-g-group"></i> Hasil</a>
+                      <a class="pull-right button small 4(narrower) mistyrose" style="width:138px;" id="sign" href="input_nilai_psikotes"><i class="icon-g-pen"></i> Input Nilai</a>
+                      <a class="pull-right button small 4(narrower) blanchedalmond" id="bobot-tls" href="#bobot-tls-form"><i class="icon-g-cogwheels"></i> Bobot</a>
                   </div>
 
                   <div class="8u 12u(mobile)">
                       <p class="subtitle"><i class="icon-g-woman"></i>Tahap Wawancara</p>
-                      <a class="pull-right button small 4(narrower)" id="sign" href="hasil"><i class="icon-g-group"></i> Hasil</a>
-                      <a class="pull-right button small 4(narrower)" style="width:138px;" id="sign" href="input_nilai_wawancara"><i class="icon-g-pen"></i> Input Nilai</a>
-                      <a class="pull-right button small 4(narrower)" id="bobot-wwcr" href="#bobot-wwcr-form"><i class="icon-g-cogwheels"></i> Bobot</a>
+                      <a class="pull-right button small 4(narrower) azure" id="sign" href="hasil"><i class="icon-g-group"></i> Hasil</a>
+                      <a class="pull-right button small 4(narrower) mistyrose" style="width:138px;" id="sign" href="input_nilai_wawancara"><i class="icon-g-pen"></i> Input Nilai</a>
+                      <a class="pull-right button small 4(narrower) blanchedalmond" id="bobot-wwcr" href="#bobot-wwcr-form"><i class="icon-g-cogwheels"></i> Bobot</a>
                   </div>
               </div>
 
@@ -79,8 +79,8 @@
                                           <div class="row 50%">
                                             <div class="12u">
                                               <ul class="actions">
-                                                <li><input type="submit" value="Simpan" /></li>
-                                                <li><input type="button" class="close button" onclick="$.fn.custombox('close');" value="&times;"/></li>
+                                                <li><input type="submit" class="blanchedalmond" value="Simpan" /></li>
+                                                <li><input type="button" class="mistyrose close button" onclick="$.fn.custombox('close');" value="&times;"/></li>
                                               </ul>
                                             </div>
                                           </div>
@@ -115,8 +115,8 @@
                                           <div class="row 50%">
                                             <div class="12u">
                                               <ul class="actions">
-                                                <li><input type="submit" value="Simpan" /></li>
-                                                <li><input type="button" class="close button" onclick="$.fn.custombox('close');" value="&times;"/></li>
+                                                <li><input type="submit" class="blanchedalmond" value="Simpan" /></li>
+                                                <li><input type="button" class="close button mistyrose" onclick="$.fn.custombox('close');" value="&times;"/></li>
                                               </ul>
                                             </div>
                                           </div>
@@ -151,8 +151,8 @@
                                           <div class="row 50%">
                                             <div class="12u">
                                               <ul class="actions">
-                                                <li><input type="submit" value="Simpan" /></li>
-                                                <li><input type="button" class="close button" onclick="$.fn.custombox('close');" value="&times;"/></li>
+                                                <li><input type="submit" class="blanchedalmond" value="Simpan" /></li>
+                                                <li><input type="button" class="close button mistyrose" onclick="$.fn.custombox('close');" value="&times;"/></li>
                                               </ul>
                                             </div>
                                           </div>
@@ -212,8 +212,8 @@
                                           <div class="row 50%">
                                             <div class="12u">
                                               <ul class="actions">
-                                                <li><input type="submit" value="Simpan" /></li>
-                                                <li><input type="button" class="close button" onclick="$.fn.custombox('close');" value="&times;"/></li>
+                                                <li><input type="submit" class="blanchedalmond" value="Simpan" /></li>
+                                                <li><input type="button" class="close button mistyrose" onclick="$.fn.custombox('close');" value="&times;"/></li>
                                               </ul>
                                             </div>
                                           </div>
@@ -230,7 +230,7 @@
                                       effect: 'sign',
                                       overlayOpacity : 0.7,
                                       overlayColor: '#EBB198',
-                                      speed: 5000
+                                      speed: 500
                                   });
                                   return false;
                               });
@@ -239,7 +239,7 @@
                                       effect: 'sign',
                                       overlayOpacity : 0.7,
                                       overlayColor: '#EBB198',
-                                      speed: 5000
+                                      speed: 500
                                   });
                                   return false;
                               });
@@ -248,7 +248,7 @@
                                       effect: 'sign',
                                       overlayOpacity : 0.7,
                                       overlayColor: '#EBB198',
-                                      speed: 5000
+                                      speed: 500
                                   });
                                   return false;
                               });
@@ -257,7 +257,7 @@
                                       effect: 'sign',
                                       overlayOpacity : 0.7,
                                       overlayColor: '#EBB198',
-                                      speed: 5000
+                                      speed: 500
                                   });
                                   return false;
                               });
