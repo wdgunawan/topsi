@@ -92,7 +92,7 @@
                                       effect: 'sign',
                                       overlayOpacity : 0.7,
                                       overlayColor: '#EBB198',
-                                      speed: 5000
+                                      speed: 500
                                   });
                                   return false;
                               });

@@ -75,7 +75,7 @@
                                       effect: 'makeway',
                                       overlayOpacity : 0.7,
                                       overlayColor: '#EBB198',
-                                      speed: 5000
+                                      speed: 150
                                   });
                                   return false;
                               });
